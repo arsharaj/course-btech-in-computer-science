@@ -8,6 +8,7 @@
 - Subject : Digital And Social Media Marketing
 - Subject : Quality Management
 - Subject : Rural Development
+- Subject : Values For Humane Society
 
 ### License
 
